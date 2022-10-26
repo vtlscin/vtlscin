@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou trabalhando com back-end
-- 🌱 Estudando Spring boot, Microservicos, Mensageria e AWS
+- 🌱 Estudando Spring boot, Microserviços, Mensageria e AWS
 - 📫 Contate-me no email: viniciusthiago2@hotmail.com
 - 😄 Pronomes: ele/dele
 
